@@ -1,4 +1,4 @@
-[![An image of @ptiwary09 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ptiwary09)](https://holopin.io/@ptiwary09)
+
 # 💫 About Me:
 Hello World!!!<br>Currently a Pre final year btech student and right now having a keen interest in web development,  and also languages like C, C++ <br>
 
