@@ -1,6 +1,12 @@
 
 # 💫 About Me:
-Hello World!!!<br>Currently a Pre final year btech student and right now having a keen interest in web development,  and also languages like C, C++ <br>
+Hello World!!!<br>Curious Mind: Constantly exploring new technologies and frameworks.
+Problem Solver: Enjoy tackling complex coding problems and finding efficient solutions.
+Team Player: Believe in the power of collaboration and open communication.
+Project Enthusiast: Engage in various projects that challenge my skills and expand my knowledge.
+Tech Advocate: Actively participate in tech communities and share my learnings.
+Continuous Learner: Dedicated to lifelong learning and staying updated with industry trends.
+<br>
 
 
 # 💻 Tech Stack:
