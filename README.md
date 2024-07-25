@@ -1,11 +1,11 @@
 
 # 💫 About Me:
-Hello World!!!<br>Curious Mind: Constantly exploring new technologies and frameworks.
-Problem Solver: Enjoy tackling complex coding problems and finding efficient solutions.
-Team Player: Believe in the power of collaboration and open communication.
-Project Enthusiast: Engage in various projects that challenge my skills and expand my knowledge.
-Tech Advocate: Actively participate in tech communities and share my learnings.
-Continuous Learner: Dedicated to lifelong learning and staying updated with industry trends.
+<br>Curious Mind: Constantly exploring new technologies and frameworks.<br>
+<br>Problem Solver: Enjoy tackling complex coding problems and finding efficient solutions.<br>
+<br>Team Player: Believe in the power of collaboration and open communication.<br>
+<br>Project Enthusiast: Engage in various projects that challenge my skills and expand my knowledge.<br>
+<br>Tech Advocate: Actively participate in tech communities and share my learnings.<br>
+<br>Continuous Learner: Dedicated to lifelong learning and staying updated with industry trends.
 <br>
 
 
