@@ -7,8 +7,8 @@
 <br>🤝 Team Player: Believe in the power of collaboration and open communication.<br>
 <br>💡Project Enthusiast: Engage in various projects that challenge my skills and expand my knowledge.<br>
 <br>🌍 Tech Advocate: Actively participate in tech communities and share my learnings.<br>
-<br>📚Continuous Learner: Dedicated to lifelong learning and staying updated with industry trends.
-<br> 📫 How to reach me ptiwary304@gmail.com
+<br>📚Continuous Learner: Dedicated to lifelong learning and staying updated with industry trends.<br>
+<br> 📫 How to reach me ptiwary304@gmail.com.<br>
 
 
 
